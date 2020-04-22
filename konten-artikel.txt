@@ -2,6 +2,7 @@ Rencana Konten Artikel
 - Javascript
   + ES6
   + Framework Javascript
+- Struktur data dasar
 - PHP Frame Work
 - HTML
 - CSS
