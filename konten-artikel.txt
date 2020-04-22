@@ -2,7 +2,12 @@ Rencana Konten Artikel
 - Javascript
   + ES6
   + Framework Javascript
+    - Vue
+    - React
 - Struktur data dasar
 - PHP Frame Work
+  + Laravel
 - HTML
 - CSS
+- Python
+- Interview
