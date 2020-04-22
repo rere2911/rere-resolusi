@@ -1,0 +1,4 @@
+- Mengganti domain digitaladies
+- Mengganti template blog digitaladies
+- Membuat konten artikel 3x dalam seminggu
+- Membuat apliaksi untuk website yang sudah ada
