@@ -1,6 +1,5 @@
-- Mengganti domain digitaladies
-- Mengganti template blog digitaladies
 - Membuat konten artikel 3x dalam seminggu
 - Membuat apliaksi untuk website yang sudah ada
 - Membuat workshop digitaladies
-- Membuat merch shop digitaladies
+- Membuat video web design
+
