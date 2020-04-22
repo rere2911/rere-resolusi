@@ -2,7 +2,9 @@ Rencana Konten Artikel
 - Javascript
   + ES6
   + Framework Javascript
-- Struktur data dasar
+    - Angular
+    - React
 - PHP Frame Work
+  - Laravel
 - HTML
 - CSS
