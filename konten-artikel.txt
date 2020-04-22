@@ -1,5 +1,7 @@
 Rencana Konten Artikel
 - Javascript
+  + ES6
+  + Framework Javascript
 - PHP Frame Work
 - HTML
 - CSS
