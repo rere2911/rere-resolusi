@@ -4,6 +4,7 @@ Rencana Konten Artikel
   + Framework Javascript
     - Vue
     - React
+    - Angular
 - Struktur data dasar
 - PHP Frame Work
   + Laravel
